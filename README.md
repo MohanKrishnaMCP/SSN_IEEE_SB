@@ -1,5 +1,5 @@
 # SSN_IEEE_SB
-FullStack website made for SSN IEEE SB, SSN IEEE SB is student branch of IEEE, SSN.  Details about the student branch are present in the website. Made with PHP, MySql for backend, HTML-CSS, JS, JQuery and Bootstrap framework for frontend
+FullStack website made for SSN IEEE SB, SSN IEEE SB is student branch of IEEE, SSN.  Details about the student branch are present in the website.
 
 #############################################################################
 
@@ -17,8 +17,7 @@ Make sure you are connected to internet, uses CDN for JQuery, Bootstrap and Font
 Home page: index.php
 
 To access dashboard- type /authentication.php at the url bar, password is "ssnieee1234"
-
-                      from there you can view, update and delete database contents dynamically
+....from there you can view, update and delete database contents dynamically
 
 
 ---------------------------------------------------------------------------------------------------------
